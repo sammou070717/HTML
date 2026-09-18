@@ -1,0 +1,16 @@
+h1{
+    color: blue
+}
+p{
+    font-family:arial; color:green
+
+}
+div{
+    background-color: lightgray;
+    border-bottom:3px dashed black;
+    border-top:3px dashed black;
+    border-right:3px dotted black;
+    border-left:3px dotted black;
+}
+
+

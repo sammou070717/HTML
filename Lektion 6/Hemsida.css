@@ -1,0 +1,51 @@
+h1{
+font-style: arial;
+font-size: 40px;
+border: rgb(38, 190, 190);
+text-align: center;
+color: white;
+padding: 40px;
+background-color: rgb(36, 172, 182);
+
+
+}
+section{ 
+    background-color: white;
+    padding: 40px;
+
+
+}
+
+article{ 
+    font-size: larger; 
+    font-style: normal;
+    text-align: center;
+    padding: 40px;
+background-color: rgb(232, 229, 229);
+
+}
+aside{
+    color: black;
+    text-align: center;
+background-color: rgb(232, 231, 231);
+
+
+}
+nav{ 
+
+padding: 10px;
+background-color: black;
+color: rgb(255, 253, 253);
+text-align: center;
+font-family: Arial, 
+
+
+
+} 
+
+ul {
+list-style-type: none;
+text-align: center;
+background-color: rgb(224, 223, 223);
+
+}
